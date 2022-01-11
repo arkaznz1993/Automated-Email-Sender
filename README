@@ -1,3 +1,7 @@
 # Version 1
 
 Using a Google Docs file and Sheets file, send automated emails.
+
+Requires credentials.json file from Google Cloud Project setup.
+
+The doc and spreadsheet links need to be changed, along with the email string.
